@@ -5,15 +5,12 @@
     <hr>
   </div>
   <div>
-    <img alt="uli" align="right" src="./ulisesbyn2.jpg" width="240px" /><br />
-  ## What i'm up to
-- 🔭 I’m currently working @ [Vercel](https://vercel.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
-- 👯 Owner of a Developer Community.
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
+    <img alt="uli" align="right" src="./ulisesbyn2.jpg" width="240px" /><br /> 
+    
+- 🎼 I’m currently working as a freelancer.
+- 🎧 I’m currently working with React | PHP | JavaScript | Tailwind etc.
+- 🎹 I’m also expanding my knowledge with other technologies like Python.
  </div>
-
-
 </div>
 
 
