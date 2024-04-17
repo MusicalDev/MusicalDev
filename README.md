@@ -5,7 +5,7 @@
     <hr>
   </div>
   <div>
-    <img alt="uli" src="./ulisesbyn2.jpg" width="240px" /><br />
+    <img alt="uli" align="right" src="./ulisesbyn2.jpg" width="240px" /><br />
   ## What i'm up to
 - 🔭 I’m currently working @ [Vercel](https://vercel.com).
 - 🌱 I’m currently working with [React](https://reactjs.org).
