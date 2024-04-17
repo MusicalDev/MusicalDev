@@ -6,7 +6,7 @@
    <img alt="uli" align="right" src="./ulisesbyn2.jpg" width="240px" /><br /> 
 
 
-## What i'm up to
+
 
 - 🎼 I’m currently working as a freelancer.
 - 🎧 I’m currently working with  with React | PHP | JavaScript | Tailwind etc.
